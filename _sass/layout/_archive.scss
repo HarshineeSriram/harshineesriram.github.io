@@ -90,6 +90,9 @@
    ========================================================================== */
 
 .list__item {
+  clear: both;
+  @include clearfix();
+
   @include breakpoint($medium) {
     padding-right: $right-sidebar-width-narrow;
   }

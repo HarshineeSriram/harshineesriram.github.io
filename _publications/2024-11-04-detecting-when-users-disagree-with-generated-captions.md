@@ -1,0 +1,10 @@
+---
+title: "Detecting when Users Disagree with Generated Captions"
+collection: publications
+category: manuscripts
+link: 'https://doi.org/10.1145/3686215.3688382'
+excerpt: '<img src="/images/publications/2024-11-04-detecting-when-users-disagree-with-generated-captions.png" style="float: left; margin-right: 15px; width: 360px;"> The pervasive integration of artificial intelligence (AI) into daily life has led to a growing interest in AI agents that can learn continuously. Interactive Machine Learning (IML) has emerged as a promising approach to meet this need, essentially involving human experts in the model training process, often through iterative user feedback. However, repeated feedback requests can lead to frustration and reduced trust in the system. Hence, there is increasing interest in refining how these systems interact with users to ensure efficiency without compromising user experience. Our research investigates the potential of eye tracking data as an implicit feedback mechanism to detect user disagreement with AI-generated captions in image captioning systems. We conducted a study with 30 participants using a simulated captioning interface and gathered their eye movement data as they assessed caption accuracy. The goal of the study was to determine whether eye tracking data can predict user agreement or disagreement effectively, thereby strengthening IML frameworks. Our findings reveal that, while eye tracking shows promise as a valuable feedback source, ensuring consistent and reliable model performance across diverse users remains a challenge.'
+date: 2024-11-04
+venue: "ICMI '24 Companion: Companion Proceedings of the 26th International Conference on Multimodal Interaction"
+citation: "Omair Shahzad Bhatti, Harshinee Sriram, Abdulrahman Mohamed Selim, Cristina Conati, Michael Barz, and Daniel Sonntag. (2024). &quot;Detecting when Users Disagree with Generated Captions.&quot; <i>ICMI '24 Companion: Companion Proceedings of the 26th International Conference on Multimodal Interaction</i>."
+---

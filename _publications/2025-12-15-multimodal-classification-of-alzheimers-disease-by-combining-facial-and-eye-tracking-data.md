@@ -1,0 +1,10 @@
+---
+title: "Multimodal Classification of Alzheimer’s Disease by Combining Facial and Eye-Tracking Data"
+collection: publications
+category: manuscripts
+link: 'https://proceedings.mlr.press/v259/chou25a.html'
+excerpt: '<img src="/images/publications/2025-12-15-multimodal-classification-of-alzheimers-disease-by-combining-facial-and-eye-tracking-data.png" style="float: left; margin-right: 15px; width: 360px;"> In recent years, there has been growing interest in developing a non-invasive tool for detecting Alzheimer’s Disease (AD). Previous studies have shown that a single modality such as speech or eye-tracking (ET) data can be effective for classifying AD patients from healthy individuals. However, understanding the role of other modalities, and especially the integration of facial analysis with ET for enhancing dementia classification, remains under-explored. In this paper, we investigate whether we can leverage facial patterns in AD patients by building on EMOTION-FAN—a deep learning model initially developed for recognizing seven distinct human emotions, now fine-tuned for our facial analysis tasks. We also explore the efficacy of leveraging multimodal information by combining the results from the facial and ET data through a late fusion technique. Specifically, our approach uses a neural classifier to learn from raw ET data (VTNet) alongside the fine-tuned EMOTION-FAN model that learns from the facial data. Experimental results show that facial data gives superior results than ET data. Notably, we obtain higher scores when both modalities are combined, providing strong evidence that integrating multimodal data benefits performance on this task.'
+date: 2025-12-15
+venue: 'Proceedings of the 4th Machine Learning for Health Symposium, PMLR 259'
+citation: 'Shih-Han Chou, Miini Teng, Harshinee Sriram, Chuyuan Li, Giuseppe Carenini, Cristina Conati, Thalia S. Field, Hyeju Jang, and Gabriel Murray. (2025). &quot;Multimodal Classification of Alzheimer’s Disease by Combining Facial and Eye-Tracking Data.&quot; <i>Proceedings of the 4th Machine Learning for Health Symposium, PMLR 259</i>:219-232.'
+---

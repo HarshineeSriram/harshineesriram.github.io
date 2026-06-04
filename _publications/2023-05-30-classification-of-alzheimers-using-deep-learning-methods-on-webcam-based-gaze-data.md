@@ -1,0 +1,10 @@
+---
+title: "Classification of Alzheimer’s using Deep-learning Methods on Webcam-based Gaze Data"
+collection: publications
+category: manuscripts
+link: 'https://doi.org/10.1145/3591126'
+excerpt: '<img src="/images/publications/2023-05-30-classification-of-alzheimers-using-deep-learning-methods-on-webcam-based-gaze-data.png" style="float: left; margin-right: 15px; width: 360px;"> There has been increasing interest in non-invasive predictors of Alzheimer’s disease (AD) as an initial screen for this condition. Previously, successful attempts leveraged eye-tracking and language data generated during picture narration and reading tasks. These results were obtained with high-end, expensive eye-trackers. Instead, we explore classification using eye-tracking data collected with a webcam, where our classifiers are built using a deep-learning approach. Our results show that the webcam gaze classifier is not as good as the classifier based on high-end eye-tracking data. However, the webcam-based classifier still beats the majority-class baseline classifier in terms of AU-ROC, indicating that predictive signals can be extracted from webcam gaze tracking. Hence, although our results indicate that there is still a long way to go before webcam gaze tracking can reach practical relevance, they still provide an encouraging proof of concept that this technology should be further explored as an affordable alternative to high-end eye-trackers for the detection of AD.'
+date: 2023-05-30
+venue: 'Proc. ACM Hum.-Comput. Interact, 7, ETRA, Article 157'
+citation: 'Anuj Harisinghani, Harshinee Sriram, Cristina Conati, Giuseppe Carenini, Thalia Field, Hyeju Jang, and Gabriel Murray. (2023). &quot;Classification of Alzheimer’s using Deep-learning Methods on Webcam-based Gaze Data.&quot; <i>Proc. ACM Hum.-Comput. Interact, 7, ETRA, Article 157</i>.'
+---
