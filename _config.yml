@@ -197,6 +197,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  courses-books:
+    output: true
+    permalink: /:collection/:path/
 defaults:
 - scope:
     path: ''
@@ -243,6 +246,13 @@ defaults:
     type: talks
   values:
     layout: talk
+    author_profile: true
+    share: true
+- scope:
+    path: ''
+    type: courses-books
+  values:
+    layout: single
     author_profile: true
     share: true
 sass:
