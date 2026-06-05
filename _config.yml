@@ -3,7 +3,7 @@ site_theme: default
 title: Harshinee Sriram
 title_separator: '-'
 name: Harshinee Sriram
-description: Harshinee Sriram - PhD Candidate in AI for Drug Discovery & Diagnosis at UBC
+description: Harshinee Sriram - PhD Candidate in AI for Alzheimer's Disease diagnosis at UBC
 url: https://harshineesriram.github.io
 baseurl: ''
 repository: HarshineeSriram/harshineesriram.github.io
@@ -11,7 +11,7 @@ author:
   avatar: profile_picture.png
   name: Harshinee Sriram
   pronouns: she/her
-  bio: PhD Candidate in AI for Drug Discovery & Diagnosis
+  bio: PhD Candidate in AI for Alzheimer's Disease diagnosis
   location: Vancouver, BC
   employer: University of British Columbia
   uri: null
