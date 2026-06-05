@@ -4,6 +4,8 @@ main:
     url: /cv/  
   - title: "Work Experience"
     url: /work-experience/
+  - title: "Talks"
+    url: /talks/
   - title: "Software"
     url: /software/
   - title: "Courses & Books"
