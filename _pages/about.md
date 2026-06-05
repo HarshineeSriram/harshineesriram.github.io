@@ -7,13 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Harshinee (her-she-knee). I am a Computer Science PhD Candidate at the University of British Columbia, Vancouver, where I am fortunate to work with [Margo Seltzer](https://www.seltzer.com/margo/) and [Xin Tang](https://tangxinlab.org/). 
+Hi! I'm Harshinee (her-she-knee). I'm a Computer Science PhD Candidate at the University of British Columbia, Vancouver, where I am co-advised by [Margo Seltzer](https://www.seltzer.com/margo/) and [Xin Tang](https://tangxinlab.org/).
 
-At my core, I love solving problems and building things. Within academia, my PhD thesis focuses on AI for Alzheimer’s Disease diagnosis, and I have also driven research in AI Evaluations, User Personalization and eXplainable AI (XAI). On the industry side, as a 2x Applied Scientist II intern at Amazon, my footprint includes working on Computer-Use Agentic Workflows and AI for Knowledge Discovery.
+Within academia, my PhD thesis focuses on AI for Alzheimer’s disease diagnosis and drug discovery, and I've also driven research in user personalization and eXplainable AI (XAI). On the industry side, I've worked on research problems involving LLM evaluations and benchmarking, computer-use agentic workflows, and AI for knowledge discovery.
 
-I’m deeply committed to lifting up the scientific community. I've built open-source, cloud-powered prototypes for community challenges and designed Quantum Computing educational materials to make the field accessible to kids. I'm interested in solving problems across a variety of domains, including (but never limited to): Virtual Cells, Multimodal Learning (Video, Text, Gaze/Eye-Movements), Sparse Diagnostic Models, Interpretable and Explainable ML, and AI for Biology, Drug Discovery, and Diagnosis.
+I’m deeply committed to lifting up the scientific community and giving back whenever I can. I've built open-source, cloud-powered prototypes for community-facing challenges and designed quantum computing educational materials to make the field accessible to children.
 
-And, when I have the time, I write for the soul to keep myself grounded.
+When I have the time, I also write for myself.
 
 ## Research Publications
 {% include base_path %}
