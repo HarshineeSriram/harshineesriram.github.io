@@ -2,6 +2,8 @@
 main:
   - title: "CV"
     url: /cv/  
+  - title: "Work Experience"
+    url: /work-experience/
   - title: "Software"
     url: /software/
   - title: "Courses & Books"

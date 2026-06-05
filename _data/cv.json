@@ -30,7 +30,92 @@
       }
     ]
   },
-  "work": [],
+  "work": [
+    {
+      "company": "Amazon",
+      "position": "Applied Scientist II Intern",
+      "startDate": "2026-06",
+      "endDate": "",
+      "summary": "Vancouver, BC. Alexa Daily Essentials team."
+    },
+    {
+      "company": "UBC Geering Up Engineering Outreach",
+      "position": "Quantum Computing Curriculum Planner",
+      "startDate": "2025-09",
+      "endDate": "2026-04",
+      "summary": "Vancouver, BC."
+    },
+    {
+      "company": "Amazon",
+      "position": "Applied Scientist II Intern",
+      "startDate": "2025-06",
+      "endDate": "2025-09",
+      "summary": "Vancouver, BC. Agentic workflows for Alexa+"
+    },
+    {
+      "company": "UBC Geering Up Engineering Outreach",
+      "position": "Quantum Computing Curriculum Planner",
+      "startDate": "2023-09",
+      "endDate": "2025-04",
+      "summary": "Vancouver, British Columbia, Canada."
+    },
+    {
+      "company": "UBC Cloud Innovation Centre",
+      "position": "Applied Scientist Intern",
+      "startDate": "2021-09",
+      "endDate": "2025-04",
+      "summary": "Vancouver, British Columbia, Canada."
+    },
+    {
+      "company": "The University of British Columbia",
+      "position": "Graduate Teaching Assistant",
+      "startDate": "2024-01",
+      "endDate": "2024-04",
+      "summary": "Vancouver, British Columbia, Canada. CPSC 532C/554C: Topics in Artificial Intelligence: Human-Centred AI by Professor Cristina Conati."
+    },
+    {
+      "company": "UBC Geering Up Engineering Outreach",
+      "position": "Quantum Computing Curriculum Planner",
+      "startDate": "2022-09",
+      "endDate": "2023-04",
+      "summary": "Vancouver, British Columbia, Canada."
+    },
+    {
+      "company": "The University of British Columbia",
+      "position": "Graduate Teaching Assistant",
+      "startDate": "2021-01",
+      "endDate": "2021-04",
+      "summary": "Vancouver, British Columbia, Canada. CPSC 430: Computers and Society by Professor Kevin Leyton-Brown."
+    },
+    {
+      "company": "Wikimedia Foundation",
+      "position": "Computer Vision Intern",
+      "startDate": "2020-12",
+      "endDate": "2021-03",
+      "summary": "Conducted a literature review of existing image classification machine learning models. Curated a comprehensive dataset for training and evaluating the chosen model. Created a robust and light-weight Image Content Filtration tool for user-submitted edits (to counter vandalism attacks) using computer vision (transfer learning). Developed a RESTful API for alpha testing. Experimented with model compression techniques such as layer-based pruning and knowledge distillation. Wrote the relevant technical and non-technical documentation."
+    },
+    {
+      "company": "The University of Auckland",
+      "position": "Visiting Research Scholar",
+      "startDate": "2019-11",
+      "endDate": "2020-02",
+      "summary": "Auckland, New Zealand. Supervisor: Professor Helen Sword. Conducted an extensive study on researcher development frameworks and initiatives across research-intensive universities around the world. Drew parallels on features and development solutions for research between ECRs and PGRs. Developed a thorough scoring system that takes into account broad categories of researcher development activities. Performed data analysis to draw inferences and lay out conclusions."
+    },
+    {
+      "company": "Tech Mahindra",
+      "position": "Artificial Intelligence Intern",
+      "startDate": "2019-06",
+      "endDate": "2019-07",
+      "summary": "Bengaluru Area, India."
+    },
+    {
+      "company": "National University of Singapore",
+      "position": "Undergraduate Research Assistant",
+      "startDate": "2018-12",
+      "endDate": "2019-01",
+      "summary": "Singapore. Area of work: Big Data Analytics using Artificial Neural Networks. Worked on the Driver Distraction Detection problem using video feeds to develop a binary classifier. Tested custom CNNs with transfer learning for classification. Used image filtering and feature extraction techniques using R and Python."
+    }
+  ],
   "education": [
     {
       "institution": "GitHub University",
