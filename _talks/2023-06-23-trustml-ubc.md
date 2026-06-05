@@ -7,5 +7,3 @@ venue: "TrustML Workshop @ UBC Vancouver 2023"
 date: 2023-06-23
 location: "Virtual"
 ---
-
-Evaluating the overall sensitivity of saliency-based explanation methods.

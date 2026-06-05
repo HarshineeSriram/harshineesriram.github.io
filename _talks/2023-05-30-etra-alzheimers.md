@@ -7,5 +7,3 @@ venue: "ETRA 2023"
 date: 2023-05-30
 location: "Virtual"
 ---
-
-Classification of Alzheimer’s Disease using Deep-learning Methods on Webcam-based Gaze Data.

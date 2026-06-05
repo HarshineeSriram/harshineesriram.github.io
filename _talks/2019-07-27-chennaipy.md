@@ -7,5 +7,3 @@ venue: "ChennaiPy 2019"
 date: 2019-07-27
 location: "Chennai, TN, India"
 ---
-
-A Brief Introduction to Therapeutic Gaming.

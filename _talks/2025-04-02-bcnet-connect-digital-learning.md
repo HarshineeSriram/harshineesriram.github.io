@@ -7,5 +7,3 @@ venue: "BCNet Connect - Higher Ed & Research Tech Summit 2025"
 date: 2025-04-02
 location: "Vancouver, BC, Canada"
 ---
-
-BC Government & UBC Cloud Innovation Centre – Digital Learning Strategy AI Assistant Prototype.

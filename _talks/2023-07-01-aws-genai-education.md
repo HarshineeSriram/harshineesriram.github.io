@@ -7,5 +7,3 @@ venue: "AWS Vancouver, Canada - Generative AI for Education 2023"
 date: 2023-07-01
 location: "Vancouver, BC, Canada"
 ---
-
-Generative AI CIC projects in the Education sector.
