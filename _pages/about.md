@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Harshinee (her-she-knee). I'm a Computer Science PhD Candidate at the University of British Columbia, Vancouver, where I am co-advised by [Margo Seltzer](https://www.seltzer.com/margo/) and [Xin Tang](https://tangxinlab.org/).
+Hi! I'm Harshinee (her-she-knee). I'm a Computer Science PhD Candidate at the University of British Columbia, Vancouver, where I am co-advised by [Margo Seltzer](https://www.seltzer.com/margo/) and [Xin Tang](https://tangxinlab.org/), and have previously collaborated with [Cristina Conati](https://www.cs.ubc.ca/people/cristina-conati).
 
 Within academia, my PhD thesis focuses on AI for Alzheimer’s disease diagnosis and drug discovery, and I've also driven research in user personalization and eXplainable AI (XAI). On the industry side, I've worked on research problems involving LLM evaluations and benchmarking, computer-use agentic workflows, and AI for knowledge discovery.
 
